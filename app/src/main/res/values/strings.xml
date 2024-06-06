@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">async-tasks</string>
+    <string name="starting_task">Démarrer la tache</string>
+    <string name="ready_to_work">Je suis pret à commencer le travail !</string>
 </resources>
